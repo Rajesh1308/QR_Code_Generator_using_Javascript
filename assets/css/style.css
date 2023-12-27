@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(4, 0, 0);
+    color: blanchedalmond;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+header {
+    margin-top: 100px;
+    color: aliceblue;
+}
+
+#inputbox {
+    margin-top: 20px;
+    border-radius: 2px;
+    width: 202px;
+    height: 40px;
+}
+
+#genbtn {
+    margin-top: 20px;
+    width: 200px;
+    border-radius: 2px;
+}
+
+#size {
+    margin-top: 20px;
+    width: 200px;
+    text-align: center;
+    height: 40px;
+    font-size: 17px;
+}
+
+#myimg {
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.download-btn {
+    margin-top: 20px;
+}
+
+span {
+    color: rgb(19, 46, 183);
+}
+
+.designer-name {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
